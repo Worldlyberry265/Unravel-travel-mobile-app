@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Unravel",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

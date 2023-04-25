@@ -1,0 +1,8 @@
+{
+  "name": "Unravel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "de64e5b8"
+}
